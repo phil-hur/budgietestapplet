@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=someapp
+Name=Some App
+Description=Obviously an App
+Authors=James Bond
+Copyright=Copyright © 2018 007
+Website=some_website
+Icon=firefox

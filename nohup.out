@@ -1,0 +1,17 @@
+
+** (budgie-panel:20167): WARNING **: 20:29:37.631: manager.vala:718: Using legacy path /home/phil/.local/share/budgie-desktop/modules, please migrate to /home/phil/.local/share/budgie-desktop/plugins
+** Message: 20:29:37.631: manager.vala:719: Legacy /home/phil/.local/share/budgie-desktop/modules path will not be supported in next major version
+
+(budgie-panel:20167): libpeas-WARNING **: 20:29:37.706: Error initializing Python Plugin Loader: PyGObject initialization failed
+
+(budgie-panel:20167): libpeas-WARNING **: 20:29:37.706: Please check the installation of all the Python related packages required by libpeas and try again
+
+(budgie-panel:20167): libpeas-WARNING **: 20:29:37.706: Loader 'python3' is not a valid PeasPluginLoader instance
+ImportError: could not import gobject (error was: ModuleNotFoundError("No module named 'gi'",))
+
+** (budgie-panel:20167): CRITICAL **: 20:29:37.708: manager.vala:730: Failed to find extension for: System Monitor
+** Message: 20:29:37.759: libsession.vala:50: DESKTOP_AUTOSTART_ID not set, session registration may be broken (not running budgie-desktop?)
+
+(budgie-panel:20167): Bluetooth-WARNING **: 20:29:37.887: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+
+** (budgie-panel:20167): CRITICAL **: 20:30:15.412: manager.vala:730: Failed to find extension for: Some App
